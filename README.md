@@ -11,4 +11,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chris1238&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Chris1238&theme=github-dark)
 
-Powered by [snk](https://github.com/Platane/snk), [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), and [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+Powered by [Shields.io](https://github.com/badges/shields), [snk](https://github.com/Platane/snk), [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), and [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
