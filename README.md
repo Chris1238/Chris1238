@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chris [![Personal Web](https://img.shields.io/badge/Personal%20Web-%F0%9F%8C%90-blue?style=flat-square)](https://chris8889.is-a.dev) ![View Count](https://komarev.com/ghpvc/?username=Chris1238&label=Profile%20views&color=blueviolet&style=flat-square)
 
-`A Frontend & Backend Developer.`
+> A Frontend & Backend Developer.
 
 ## Activity
 <picture>
